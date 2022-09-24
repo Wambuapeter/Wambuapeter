@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Wambuapeter
-- 👀 I’m interested in Web Development and Data Science
+- 👋 Hi, I’m @Wambuapeter AKA thecyberlearner
+- 👀 I’m a Network and mobile penetration tester.
 - 🌱 I’m currently learning a bachelors degree in Computer Science at dekut,Kenya and a Software Engineering course at ALX Africa
 - 💞️ I’m looking to collaborate on all projects we can come up with
 - 📫 How to reach me @+254714873020
